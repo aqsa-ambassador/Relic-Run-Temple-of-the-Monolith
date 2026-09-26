@@ -1,0 +1,7 @@
+{
+  "name": "Relic Run: Temple of the Monolith",
+  "description": "An endless 3D temple runner featuring dynamic corner turns, an ancient stone golem chase, elemental shift portals, active companion pet abilities, and relic fusion synergies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
